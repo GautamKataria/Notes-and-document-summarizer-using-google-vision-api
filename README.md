@@ -14,3 +14,6 @@
 #### 4) It will then orgnaise it into a coherent paragraph
 #### 5) The program summarizes the text through NLP by using Lsa summarizer in conjunction with stopwords and stemming.
 #### 6) Finally, it displays the summarization at the end. (the length of summarization is half of the number of sentences detected)
+
+### Improvements:
+We can add some image preprocessing so that it is easier for the google-vision api to detect text correctly but in general it does the job quite well even without it.
