@@ -6,6 +6,10 @@
 ##### Install sumy, deepsegment
 ##### setup google-vision api : [example here](https://www.youtube.com/watch?v=wfyDiLMGqDM)
 
+### Setup:
+#### Change the path of google vision api json file to your own path
+#### Change folder path where your image is saved
+
 ### Working:
 
 #### 1) Run the extract_test.py file
